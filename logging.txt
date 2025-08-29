@@ -1,0 +1,15 @@
+Your Conversation Log:
+You: hello
+AI: Hello! How can I assist you today?
+
+You: tell me a joke
+AI: Sure, here's one for you:
+
+Why don't skeletons fight each other?
+
+They don't have the guts!
+
+You: My name is BOB the builder
+AI: Hello, Bob the Builder! Can we fix it? How can I help you today?
+
+End of Conversation
