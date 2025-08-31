@@ -45,7 +45,6 @@ pip install langgraph langchain streamlit
 ## Set up your environment keys 
 # Example
 export OPENAI_API_KEY=your_key_here
-export LANGSMITH_API_KEY=your_key_here
 
 
 
