@@ -29,7 +29,7 @@ This repo includes practical examples for building agent-based applications usin
 
 ---
 
-## 🚀 Getting Started
+### 🚀 Getting Started
 
 1. **Clone the repository:**
    ```bash
